@@ -1,0 +1,34 @@
+[
+  {
+    "id": "centre-001",
+    "name": "Demo Medical Response Centre",
+    "type": "AMBULANCE",
+    "location": "Ikeja",
+    "status": "AVAILABLE",
+    "contactMode": "DEMO"
+  },
+  {
+    "id": "centre-002",
+    "name": "Demo Hospital Referral Centre",
+    "type": "HOSPITAL",
+    "location": "Ikeja",
+    "status": "AVAILABLE",
+    "contactMode": "DEMO"
+  },
+  {
+    "id": "centre-003",
+    "name": "Demo Fire Response Centre",
+    "type": "FIRE_SERVICE",
+    "location": "Ikeja",
+    "status": "AVAILABLE",
+    "contactMode": "DEMO"
+  },
+  {
+    "id": "centre-004",
+    "name": "Demo Security Response Centre",
+    "type": "POLICE",
+    "location": "Ikeja",
+    "status": "AVAILABLE",
+    "contactMode": "DEMO"
+  }
+]
